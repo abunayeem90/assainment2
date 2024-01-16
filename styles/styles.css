@@ -808,7 +808,8 @@ h5 {
     }
 
 
-    .destination {
+    .destination-img img{
+        flex-direction: column;
         display: grid;
         grid-template-columns: 1 1fr;
     }
@@ -847,9 +848,21 @@ h5 {
         display: grid;
         
     }
+.card-section{
+    display: block;
+
+}
 
 
+.place-container{
 
+    display: block;
+}
+
+.newsletter-section{
+
+    display: block;
+}
 
 
 
